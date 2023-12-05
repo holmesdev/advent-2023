@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="763ab74e-80ac-4048-a969-a2b4d2256dfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/Part1.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/Part2.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/Part1.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/Part2.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinScripting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day3/Part1.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day3/Part2.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day3/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day4/Part1.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day4/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +45,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/alex/code/adventOfCode/src/main/kotlin/day2",
+    "last_opened_file_path": "/Users/alex/code/adventOfCode/src/main/kotlin/day3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +59,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/day3" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/day2" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -77,17 +67,6 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/day1" />
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Day1" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="adventOfCode" />
-      <shortenClasspath name="NONE" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="filePath" value="$PROJECT_DIR$/src/main/kotlin/day1/Part1.kts" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -97,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701545216805</updated>
-      <workItem from="1701545217464" duration="10355000" />
+      <workItem from="1701545217464" duration="23819000" />
     </task>
     <servers />
   </component>
